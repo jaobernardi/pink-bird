@@ -1,0 +1,8 @@
+services:
+  nginx:
+    container_name: "PinkNginx"
+    volumes:
+      - ./volumes/nginx/default.conf:/etc/nginx/conf.d/default.conf
+      - ./volumes/nginx/snippets/:/etc/nginx/snippets/
+      - ./volumes/static/:/var/www/static/
+    
