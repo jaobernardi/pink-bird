@@ -1,0 +1,20 @@
+1. Backend em PHP :)
+2. Conexão com o Weaviate
+
+3. CRUD (Create Read Update and Delete)
+3.1 Sign up
+3.2 Login
+
+3.3 Fecth
+
+3.3.1 Pipos (tweets, posts, etc)
+3.3.1.1 Likes
+
+3.3.2 User info
+3.3.2.1 Follows
+3.3.2.2 Likes
+3.3.2.3 Pipos
+3.3.2.4 Profile Picture
+3.3.2.5 Bio
+
+3.3 
